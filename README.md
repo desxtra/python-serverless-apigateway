@@ -35,3 +35,14 @@ To run this project, you will need to add the following environment variables to
 
 `db_name     = "your_db_name"`
 
+also set envar in lambda:
+
+`DB_HOST`
+
+`DB_USER`
+
+`DB_PASSWORD`
+
+`DB_NAME`
+
+by default pymysql does not available, you need to configure it manually
