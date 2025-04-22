@@ -1,4 +1,4 @@
-aws_region  = "us-east-1"
-db_username = "admin"
-db_password = "YourStrongPasswordHere"
-db_name     = "httpmethods"
+aws_region  = "your_region"
+db_username = "your_user"
+db_password = "your_db_password"
+db_name     = "your_db_name"
